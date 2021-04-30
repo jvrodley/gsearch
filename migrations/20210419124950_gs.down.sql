@@ -1,0 +1,1 @@
+ALTER TABLE searchterm DROP column searchtype;

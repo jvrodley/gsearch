@@ -1,0 +1,2 @@
+DROP TABLE ori;
+ALTER TABLE url DROP COlUMN oriid_ori;
